@@ -1,0 +1,20 @@
+{
+  "name": "wqwq",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "enes",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "discordjs-ytdl-advanced": "^0.1.6",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "os": "^0.1.1",
+    "path": "^0.12.7"
+  }
+}
